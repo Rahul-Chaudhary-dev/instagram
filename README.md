@@ -2,7 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## Images
+<img src="https://raw.githubusercontent.com/Rahul-Chaudhary-dev/instagram/master/assets/images/login%20page.jpg" height = 30% width= 30%>
+<img src="https://raw.githubusercontent.com/Rahul-Chaudhary-dev/instagram/master/assets/images/Home%20page%20(2).jpg" height = 30% width= 30%>
+<img src="https://raw.githubusercontent.com/Rahul-Chaudhary-dev/instagram/master/assets/images/Home%20page%20(3).jpg" height = 30% width= 30%>
+<img src="https://raw.githubusercontent.com/Rahul-Chaudhary-dev/instagram/master/assets/images/Home%20page%20(1).jpg" height = 30% width= 30%>
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
